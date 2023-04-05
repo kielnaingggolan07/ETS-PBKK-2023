@@ -1,0 +1,14 @@
+C:\Users\HP 14\source\repos\ETS PBKK\ETS PBKK\bin\Debug\ETS PBKK.exe.config
+C:\Users\HP 14\source\repos\ETS PBKK\ETS PBKK\bin\Debug\ETS PBKK.exe
+C:\Users\HP 14\source\repos\ETS PBKK\ETS PBKK\bin\Debug\ETS PBKK.pdb
+C:\Users\HP 14\source\repos\ETS PBKK\ETS PBKK\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HP 14\source\repos\ETS PBKK\ETS PBKK\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HP 14\source\repos\ETS PBKK\ETS PBKK\obj\Debug\ETS PBKK.csproj.AssemblyReference.cache
+C:\Users\HP 14\source\repos\ETS PBKK\ETS PBKK\obj\Debug\ETS PBKK.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP 14\source\repos\ETS PBKK\ETS PBKK\obj\Debug\ETS_PBKK.Form1.resources
+C:\Users\HP 14\source\repos\ETS PBKK\ETS PBKK\obj\Debug\ETS_PBKK.Properties.Resources.resources
+C:\Users\HP 14\source\repos\ETS PBKK\ETS PBKK\obj\Debug\ETS PBKK.csproj.GenerateResource.cache
+C:\Users\HP 14\source\repos\ETS PBKK\ETS PBKK\obj\Debug\ETS PBKK.csproj.CoreCompileInputs.cache
+C:\Users\HP 14\source\repos\ETS PBKK\ETS PBKK\obj\Debug\ETS PBKK.csproj.CopyComplete
+C:\Users\HP 14\source\repos\ETS PBKK\ETS PBKK\obj\Debug\ETS PBKK.exe
+C:\Users\HP 14\source\repos\ETS PBKK\ETS PBKK\obj\Debug\ETS PBKK.pdb
